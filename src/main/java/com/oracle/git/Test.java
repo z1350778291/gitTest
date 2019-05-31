@@ -6,6 +6,9 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		System.out.println("这是我的第一个git项目");
+		
+		
+		System.out.println("第二行代码");
 
 	}
 
